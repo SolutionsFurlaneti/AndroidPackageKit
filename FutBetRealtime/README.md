@@ -1,6 +1,6 @@
 # FutBetRealtime · ANDROID
 
-Versão 1.0.2.
+Versão 1.0.3.
 
 [Baixar FutBetRealtime para Android](https://raw.githubusercontent.com/SolutionsFurlaneti/AndroidPackageKit/main/FutBetRealtime/FutBetRealtime.apk)
 
