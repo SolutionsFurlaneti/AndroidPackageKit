@@ -1,6 +1,6 @@
 # PokerGame · ANDROID
 
-Versão 1.0.8.
+Versão 1.0.10.
 
 [Baixar PokerGame para Android](https://raw.githubusercontent.com/SolutionsFurlaneti/AndroidPackageKit/main/PokerGame/PokerGame.apk)
 
