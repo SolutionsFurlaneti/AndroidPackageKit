@@ -1,0 +1,10 @@
+{
+  "platform": "android",
+  "versionCode": 1008,
+  "versionName": "1.0.8",
+  "commit": "449cc68c10f9c885004090cb0ee24c5a897fae73",
+  "sha256": "cfb28760cc909eb3afc959b67c10d103e607e249b3c73edf9c67b8d54c4a468a",
+  "file": "PokerGame.apk",
+  "downloadUrl": "https://raw.githubusercontent.com/SolutionsFurlaneti/AndroidPackageKit/main/PokerGame/PokerGame.apk",
+  "installUrl": "https://www.furlaneti.com.br/pokergame/"
+}
