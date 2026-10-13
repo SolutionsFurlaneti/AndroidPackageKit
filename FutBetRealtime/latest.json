@@ -1,0 +1,10 @@
+{
+  "platform": "android",
+  "versionCode": 1001,
+  "versionName": "1.0.1",
+  "commit": "3a5311197b60ac943a2679556ed4d60c561bf82c",
+  "sha256": "08306ee565decb15b2b412386aee0bb21077a6fd9961db2d1d2df952c8522436",
+  "file": "FutBetRealtime.apk",
+  "downloadUrl": "https://raw.githubusercontent.com/SolutionsFurlaneti/AndroidPackageKit/main/FutBetRealtime/FutBetRealtime.apk",
+  "installUrl": "https://www.furlaneti.com.br/futbet/"
+}
