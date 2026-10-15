@@ -1,0 +1,10 @@
+{
+  "platform": "android",
+  "versionCode": 1048,
+  "versionName": "1.0.48",
+  "commit": "f084fcddbe126ab1035565f94c696102f1c37fac",
+  "sha256": "13537bde4f0ba4c741968d7bb3f60ea9adf3f3f6eb04c52f0179741227eac5fa",
+  "file": "AutoCareManager.apk",
+  "downloadUrl": "https://raw.githubusercontent.com/SolutionsFurlaneti/AndroidPackageKit/main/AutoCareManager/AutoCareManager.apk",
+  "installUrl": "https://www.furlaneti.com.br/autocare/"
+}
