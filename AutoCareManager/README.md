@@ -1,6 +1,6 @@
 # AutoCareManager · ANDROID
 
-Versão 1.0.48.
+Versão 1.0.49.
 
 [Baixar AutoCareManager para Android](https://raw.githubusercontent.com/SolutionsFurlaneti/AndroidPackageKit/main/AutoCareManager/AutoCareManager.apk)
 
