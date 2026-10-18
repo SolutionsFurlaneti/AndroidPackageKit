@@ -1,9 +1,9 @@
 {
   "platform": "android",
-  "versionCode": 1049,
-  "versionName": "1.0.49",
-  "commit": "93288edf17e65bcff714e75cc23c8a4544617070",
-  "sha256": "b8c2ba43c618d55fdbf94138595c7cde4ffa22a3031f91b22329698bcd7a5993",
+  "versionCode": 1050,
+  "versionName": "1.0.50",
+  "commit": "96ff31efb9b84e2a59793e66867d52b79469e47a",
+  "sha256": "236c6dab91f472d8504f07d54ee246d1b1e43887325d0cee5472cd4f2c4894bc",
   "file": "AutoCareManager.apk",
   "downloadUrl": "https://raw.githubusercontent.com/SolutionsFurlaneti/AndroidPackageKit/main/AutoCareManager/AutoCareManager.apk",
   "installUrl": "https://www.furlaneti.com.br/autocare/"
