@@ -1,9 +1,9 @@
 {
   "platform": "android",
-  "versionCode": 1002,
-  "versionName": "1.0.2",
-  "commit": "9f1581a3b2aa8ba7adf9cdd60df56a6c47c33d72",
-  "sha256": "38210b3924a05a5e3d80595f510cabb3aa6089c8df8081228eb0b4e006783695",
+  "versionCode": 1003,
+  "versionName": "1.0.3",
+  "commit": "240b3c767da4404e13045206f5ae61645a4a6cf6",
+  "sha256": "7548f2f6b51393f194191b3ea5a4cb2f99414464ffe7868e35ffb63b6c88554d",
   "file": "MachineSlot.apk",
   "downloadUrl": "https://raw.githubusercontent.com/SolutionsFurlaneti/AndroidPackageKit/main/MachineSlot/MachineSlot.apk",
   "installUrl": "https://www.furlaneti.com.br/machineslot/"
