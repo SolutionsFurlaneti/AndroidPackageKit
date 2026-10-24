@@ -1,6 +1,6 @@
 # MachineSlot · ANDROID
 
-Versão 1.0.3.
+Versão 1.0.4.
 
 [Baixar MachineSlot para Android](https://raw.githubusercontent.com/SolutionsFurlaneti/AndroidPackageKit/main/MachineSlot/MachineSlot.apk)
 
