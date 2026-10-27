@@ -1,6 +1,6 @@
 # CareAuto · ANDROID
 
-Versão 1.0.52.
+Versão 1.0.53.
 
 [Baixar CareAuto para Android](https://raw.githubusercontent.com/SolutionsFurlaneti/AndroidPackageKit/main/AutoCareManager/AutoCareManager.apk)
 
