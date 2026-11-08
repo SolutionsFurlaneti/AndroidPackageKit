@@ -1,9 +1,9 @@
 {
   "platform": "android",
-  "versionCode": 38,
-  "versionName": "1.0.38",
-  "commit": "86fc1f686d5ab766686eec315ca2e876d3ad340d",
-  "sha256": "45ef446ad16a3d33fb4d1aa8c4aea1aed8cf84c4fc3d592daafba4b78a52aa5c",
+  "versionCode": 39,
+  "versionName": "1.0.39",
+  "commit": "aa6d7eb25e5f5fb7dc67eb2e86fcf7dd1eaff9cd",
+  "sha256": "259621a10e242b0d9d2a899b843feecf1574682e428157c7ec286493837f2c00",
   "file": "NextTimeSlot.apk",
   "downloadUrl": "https://raw.githubusercontent.com/SolutionsFurlaneti/AndroidPackageKit/main/NextTimeSlot/NextTimeSlot.apk",
   "installUrl": "https://nexttimeslot.online"
