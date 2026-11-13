@@ -1,6 +1,6 @@
 # NextTimeSlot · ANDROID
 
-Versão 1.0.71.
+Versão 1.0.72.
 
 [Baixar NextTimeSlot para Android](https://raw.githubusercontent.com/SolutionsFurlaneti/AndroidPackageKit/main/NextTimeSlot/NextTimeSlot.apk)
 
