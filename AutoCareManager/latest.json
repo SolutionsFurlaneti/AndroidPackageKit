@@ -1,9 +1,9 @@
 {
   "platform": "android",
-  "versionCode": 1064,
-  "versionName": "1.0.64",
-  "commit": "4bc5a7ab7e7711d21974dbb2b725d86907d05013",
-  "sha256": "01c989c40c314dfd95ff8b1d5b692393ddd646b35693dd1c4ff4cab41e4fbe22",
+  "versionCode": 1065,
+  "versionName": "1.0.65",
+  "commit": "8dd741098e8b67a7d9baec5bc635d32b3166c368",
+  "sha256": "44ebc0b968992e15ff3aa6ff06ac9321f6054e634aa849ff1c4142a6f75d7ecd",
   "file": "AutoCareManager.apk",
   "downloadUrl": "https://raw.githubusercontent.com/SolutionsFurlaneti/AndroidPackageKit/main/AutoCareManager/AutoCareManager.apk",
   "installUrl": "https://careauto.online"
